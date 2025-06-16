@@ -1,2 +1,4 @@
-# pybricks-bluetooth
-A basic example of using the Spike and Bluetooth.
+# Pybricks and Bluetooth
+
+A basic example of using Pybricks and communicating between two LEGO&reg; Spike&trade; hubs. 
+
